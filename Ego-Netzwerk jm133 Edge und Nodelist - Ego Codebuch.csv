@@ -1,0 +1,20 @@
+CODEBUCH,
+,
+Wert,Kommentar
+,
+edgelist,
+from,ID des Knoten
+to ,ID des Knoten (Richtung)
+weight,"Ausprägung der Kantenstärke (Beziehungsstärke), definiert nach vorgegeben Skalen."
+duration,definiert die Dauer der Beziehung
+relationship,definiert die Art der Beziehung
+,
+nodelist,
+id,ID des Knoten identisch zur Edgelist
+sex,Geschlecht
+ethnicity,Herkunft
+age,Alter
+religion,Religion
+education,Bildungsstand
+,
+NA,definiert fehlende Werte
