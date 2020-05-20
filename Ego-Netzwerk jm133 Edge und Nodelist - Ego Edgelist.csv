@@ -1,0 +1,11 @@
+from,to,weight,duration,relationship
+Ego,TG,4,3,9
+Ego,AB,3,3,9
+Ego,BE,4,1,1
+Ego,CM,3,3,2
+TG,Ego,4,3,9
+TG,AB,3,3,9
+AB,Ego,3,3,9
+AB,TG,3,3,9
+BE,Ego,4,1,1
+CM,Ego,3,3,2
