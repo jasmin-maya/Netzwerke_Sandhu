@@ -1,7 +1,5 @@
 CODEBUCH,
-,
-Wert,Kommentar
-,
+
 edgelist,
 from,ID des Knoten
 to ,ID des Knoten (Richtung)
