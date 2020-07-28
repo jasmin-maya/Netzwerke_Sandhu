@@ -3,9 +3,9 @@ Codebuch Stand 2020-07-28
 erstellt von Jasmin Maya (jm133@hdm-stuttgart.de)
 
 ## Inhalt
-- Edges.csv (Edgelist)
-- Nodes.csv (Nodelist)
-- Codebuch.rm (Codierung der Datensätze)
+- Edgelist_Testat.csv
+- Nodelist_Testat.csv
+- Codebuch_Testat.rm (Codierung der Datensätze)
 
 ## Ursprung und Datenerhebung
 Ich habe den Datensatz der Mitglieder der Kohlekommission aus folgenden Datenquellen erhoben:
