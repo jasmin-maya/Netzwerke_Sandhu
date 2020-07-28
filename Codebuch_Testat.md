@@ -5,7 +5,7 @@ erstellt von Jasmin Maya (jm133@hdm-stuttgart.de)
 ## Inhalt
 - Edgelist_Testat.csv
 - Nodelist_Testat.csv
-- Codebuch_Testat.rm (Codierung der Datensätze)
+- Codebuch_Testat.md (Codierung der Datensätze)
 
 ## Ursprung und Datenerhebung
 Analysiert werden soll das Netzwerk der Mitglieder der Kohlekommission. Ich habe den Datensatz aus folgenden Datenquellen erhoben:
