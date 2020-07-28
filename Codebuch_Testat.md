@@ -8,9 +8,10 @@ erstellt von Jasmin Maya (jm133@hdm-stuttgart.de)
 - Codebuch_Testat.rm (Codierung der Datensätze)
 
 ## Ursprung und Datenerhebung
-Ich habe den Datensatz der Mitglieder der Kohlekommission aus folgenden Datenquellen erhoben:
+Analysiert werden soll das Netzwerk der Mitglieder der Kohlekommission. Ich habe den Datensatz aus folgenden Datenquellen erhoben:
 https://www.klimareporter.de/deutschland/das-sind-die-mitglieder-der-kohlekommission
 https://www.bmwi.de/Redaktion/DE/Pressemitteilungen/2018/20180606-bundeskabinett-setzt-kommission-wachstum-strukturwandel-und-beschaeftigung-ein.html
+https://www.munzinger.de/search/start.jsp
 
 Das Netzwerk ist ein *unggerichtetes two-mode Akteursnetzwerk*.
 
