@@ -50,7 +50,7 @@ Das Netzwerk ist ein *unggerichtetes two-mode Akteursnetzwerk*.
 
 **party**
 (Mitgliedschaft in politischer Partei)
-1 = keine, 2 = CDU 3 = SPD 4 = FDP 5 = Grüne
+1 = keine, 2 = CDU/CSU 3 = SPD 4 = FDP 5 = Die Grünen
 
 **representation**
 (Funktion innerhalb der Kommission)
