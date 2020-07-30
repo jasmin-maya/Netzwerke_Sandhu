@@ -1,5 +1,5 @@
 # Datensatz Kohlekommission #
-Codebuch Stand 2020-07-30   
+Codebuch Stand 2020-07-31   
 erstellt von Jasmin Maya (jm133@hdm-stuttgart.de)
 
 ## Inhalt
@@ -14,7 +14,7 @@ https://www.bmwi.de/Redaktion/DE/Pressemitteilungen/2018/20180606-bundeskabinett
 https://www.munzinger.de/search/start.jsp
 https://www.abgeordnetenwatch.de/
 
-Das Netzwerk ist ein *unggerichtetes two-mode Akteursnetzwerk*.
+Das Netzwerk ist ein *ungerichtetes two-mode Akteursnetzwerk*.
 
 
 # Codebuch
