@@ -1,5 +1,5 @@
 # Datensatz Kohlekommission #
-Codebuch Stand 2020-07-28   
+Codebuch Stand 2020-07-30   
 erstellt von Jasmin Maya (jm133@hdm-stuttgart.de)
 
 ## Inhalt
@@ -50,7 +50,7 @@ Das Netzwerk ist ein *unggerichtetes two-mode Akteursnetzwerk*.
 
 **party**
 (Mitgliedschaft in politischer Partei)
-1 = keine, 2 = CDU/CSU 3 = SPD 4 = FDP 5 = Die Grünen
+1 = keine 2 = CDU/CSU 3 = SPD 4 = FDP 5 = Die Grünen
 
 **representation**
 (Funktion innerhalb der Kommission)
