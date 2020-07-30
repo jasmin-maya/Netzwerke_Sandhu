@@ -54,7 +54,7 @@ Das Netzwerk ist ein *unggerichtetes two-mode Akteursnetzwerk*.
 
 **representation**
 (Funktion innerhalb der Kommission)
-1 = Politik 2 = Wirtschaft 3 = Gewerkschaft 4 = Umwelt 5 = Regionen 6 = Wissenschaft 7 = Soziales
+1 = Politik 2 = Wirtschaft 3 = Gewerkschaft 4 = Umwelt 5 = Regionen 6 = Wissenschaft
 
 **position**
 (Position innerhalb der Kommission)
